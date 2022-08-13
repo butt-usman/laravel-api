@@ -1,8 +1,8 @@
 # laravel-api
 
-> Sample Basic Backend in Monolithic
+> Sample Basic Backend : RESTFul API in Laravel
 
-### 🏠 [Homepage](https://github.com/butt-usman/node-express-backend#readme)
+### 🏠 [Homepage](https://github.com/butt-usman/laravel-api#readme)
 
 ## Install
 
